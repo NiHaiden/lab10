@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">lab10_tankapp</string>
+    <string name="btn_erfassen">Erfasse Tankvorgang</string>
+    <string name="btn_loeschen">Alles loeschen</string>
+    <string name="btn_openlist">Daten anzeigen</string>
+    <string name="title_activity_erfasse_tankvorgang">erfasseTankvorgang</string>
+    <string name="txtField_alterKMStand">Alter KM Stand</string>
+    <string name="txtField_neuerKMStand">Neuer KM Stand</string>
+    <string name="txtField_getankteLiter">Getankte Liter</string>
+    <string name="txtField_preisProLiter">Preis pro Liter</string>
+    <string name="datepicker_datumVorgang">Datum des Tankvorgangs</string>
+    <string name="btnSave">Speichern</string>
+    <string name="date">Datum</string>
+    <string name="old_km">Alter KM Stand</string>
+    <string name="new_km">Neuer KM Stand</string>
+    <string name="liters">Getankte Liter</string>
+    <string name="price_per_liter">preisProLiter</string>
+
+</resources>
